@@ -2,4 +2,4 @@ git init
 git add . или  add название_файла
 git commit -m "message"
 git remote add origin ссылка_на репозиторий
-git push -u orign название_ветки
+git push -u origin название_ветки
